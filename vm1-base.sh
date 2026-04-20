@@ -27,7 +27,7 @@ DEBIAN_FRONTEND=noninteractive apt install -y \
   wireshark \
   tshark \
   wxhexeditor \
-  bless \
+  ghex \
   hexedit \
   xxd \
   vim \
